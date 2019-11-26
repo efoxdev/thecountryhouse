@@ -1,3 +1,1 @@
-# thecountryhouse
-site for my parents business
-test text here 
+This is so stupid. I can't figure this out.
